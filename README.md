@@ -11,7 +11,17 @@ En mi portatil tengo instalado a dia de hoy debian 11 de 32 bits porque mi porce
 Los scripts que tengo son muy basicos; por ejempo, un script que me odena todos los archivos de programacion, musica, video e imagenes y los mete en sus respectivas carpetas. Otro que me hace capturas de pantalla y me las envia a la carpeta de Imágenes/Screenshots. Otro con el que arreglo un bug de mi pantalla que hace que saliera en vertical y otro que me cierra la sesion.
 
 # Mi laptop
-Mi laptop es muy basica, la principio queria instalar arch linux pero de primeras solo tengo un puerto usb con lo que se me dificultaba. compre un adpatador y antes de instalarlo, estuve mirando haber si encontraba los drivers privativos de mi adaptador wifi y audio pero no los encontraba. En cambio en debian si he encontrado los drivers de wii pero por ahra me falta los drivers de audio que no encuenttro la manera de que funcionen sin que me tiren fallo. 
+Specs de mi portatil (muy basica)
+-Modelo: Acer One S1003 (300 euros)
+-Intel Atom x5-8350 4 cores (sin hilos) a 1,44GHz hasta 1,92GHz (con un voltage de 1 what :OO)
+-4GB de RAM DDR3 a 1667mhz 
+-50GB Almacenamiento (SD) junto con dualboot de windows10 32 bits de 70GB
+-Pantalla de 10 pulgadas a resolucion 1280x800 pixeles
+-Puertos: (un solo USB junto con un Micro HDMI y un puerto para cargar el portatil micro USB tipo A)
+
+Por ahora me queda por isntalar los drivers de audio porque no consigo escuchar onidos in siquiera con los ausiculares, pero al principio solo podia estar conectado mediante un adpatador ethernet a internet hasta que me descargue los drivers
+
+
 
 # Imagenes de como quedó
 
