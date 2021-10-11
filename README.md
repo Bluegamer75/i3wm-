@@ -12,3 +12,14 @@ Los scripts que tengo son muy basicos; por ejempo, un script que me odena todos 
 
 # Mi laptop
 Mi laptop es muy basica, la principio queria instalar arch linux pero de primeras solo tengo un puerto usb con lo que se me dificultaba. compre un adpatador y antes de instalarlo, estuve mirando haber si encontraba los drivers privativos de mi adaptador wifi y audio pero no los encontraba. En cambio en debian si he encontrado los drivers de wii pero por ahra me falta los drivers de audio que no encuenttro la manera de que funcionen sin que me tiren fallo. 
+
+# Imagenes de como quedó
+
+Imagen de las terminales con compton
+
+![2021-10-11_15-49_1](https://user-images.githubusercontent.com/76869585/136801706-422ac826-5eee-481d-9606-62aace197300.png)
+
+Aqui teneis una imagen utilizando neovim 
+
+![2021-10-11_15-50](https://user-images.githubusercontent.com/76869585/136801898-9f2df3cc-7062-4732-82c9-73e598798bc3.png)
+
