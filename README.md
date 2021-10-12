@@ -25,11 +25,19 @@ Por ahora me queda por isntalar los drivers de audio porque no consigo escuchar 
 
 # Imagenes de como quedó
 
-Imagen de las terminales con compton, (y i3-gaps )
+Imagen de las terminales con compton, (y i3-gaps y polybar)
 
 ![2021-10-12_12-10_1](https://user-images.githubusercontent.com/76869585/136936997-095baf34-db86-4cb5-9e67-b62176ff1d69.png)
 
 Aqui teneis una imagen utilizando neovim 
 
 ![2021-10-11_15-50](https://user-images.githubusercontent.com/76869585/136801898-9f2df3cc-7062-4732-82c9-73e598798bc3.png)
+
+Y dicho esto pongamonos con la instalacion
+
+# Instalaciòn
+Para empezar tendremos que instalar i3 (en mi caso en debian), para instalarlo utilizaremos sudo apt install i3wm i3status (ya cambiareis la barra en el futuro por otra que os guste) rofi feh neovim xorg. Con esto ya podremos empezar con el manual de instalacion y configuracion.
+
+despues de hacer todos los pasos le dais a startx y os deberia cargar i3, sos saltara que tecla quereis que sea mod en el sistema, podeis ponerlo con la tecla de windows o la tecla de control, y ya estariais en i3, una bonita pantalla negra que tendras que saber como configurar, para abrir una terminal tendreis que darle mod+Enter para despues hacer un cd .config/i3 y usar nano config
+
 
