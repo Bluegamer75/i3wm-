@@ -25,9 +25,9 @@ Por ahora me queda por isntalar los drivers de audio porque no consigo escuchar 
 
 # Imagenes de como quedó
 
-Imagen de las terminales con compton
+Imagen de las terminales con compton, (y i3-gaps )
 
-![2021-10-11_15-49_1](https://user-images.githubusercontent.com/76869585/136801706-422ac826-5eee-481d-9606-62aace197300.png)
+![2021-10-12_12-10_1](https://user-images.githubusercontent.com/76869585/136936997-095baf34-db86-4cb5-9e67-b62176ff1d69.png)
 
 Aqui teneis una imagen utilizando neovim 
 
